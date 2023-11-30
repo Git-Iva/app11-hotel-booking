@@ -1,0 +1,1 @@
+This project teaches the concepts of object oriented programming by  develiping a simple command line interface app
