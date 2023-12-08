@@ -3,7 +3,7 @@ User can book a hotel
 User can get a reservation ticket /confirmation after booking
 
 # Find out what classes you want to use
-# Trick is to look for nouns in the sentences
+Trick is to look for nouns in the sentences
 
 Classes:
 User
@@ -11,3 +11,6 @@ Hotel
 Reservation / Ticket
 
 # Write the program main loop before the methods of the classes
+
+Extend the program by adding a new SpaHotel class
+where one can book a SPA package
